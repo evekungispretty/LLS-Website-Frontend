@@ -266,16 +266,16 @@ useEffect(() => {
                     <a href="/"><img src={heart}  alt="Logo" className="h-8" /></a>
                   </div>
                   <div className="hidden md:flex space-x-6 items-center">
-                    <a href="/" className="text-white hover:text-gray-900 font-bold">
+                    <a href="/" className="text-white  hover:underline font-bold">
                       Home
                     </a>
-                    <a href="/team" className="text-white hover:text-gray-900 font-bold">
+                    <a href="/team" className="text-white  hover:underline font-bold">
                       Team
                     </a>
-                    <a href="/evidence" className="text-white hover:text-gray-900 font-bold">
+                    <a href="/evidence" className="text-white  hover:underline font-bold">
                       Evidence
                     </a>
-                    <a href="/sponsors" className="text-white hover:text-gray-900 font-bold">
+                    <a href="/sponsors" className="text-white  hover:underline font-bold">
                       Sponsors
                     </a>
                   </div>
@@ -320,8 +320,8 @@ useEffect(() => {
           </nav>
 
           {/* Main Content */}
-        <div className="flex flex-col gap-12 mt-20 p-10 md:px-40 bg-white">
-      {Object.entries(papers).map(([category, content]) => (
+          <div className="flex flex-col gap-12 mt-20 p-10 md:px-40 bg-white mx-10 lg:mx-40">
+           {Object.entries(papers).map(([category, content]) => (
         <section 
           key={category} 
           id={slugify(category)} 
