@@ -7,7 +7,7 @@ import hero2 from "../assets/LLS Screenshots/caa.jpg";
 import hero22 from "../assets/LLS Screenshots/bba.jpg";
 import hero24 from "../assets/LLS Screenshots/abb.jpg"
 import hero14 from "../assets/carma1.png"
-import hero15 from "../assets/carla.png"
+import hero15 from "../assets/carla-hero-section-screenshot.png"
 import hero16 from "../assets/hopemodel.jpg"
 import hero33 from "../assets/LLS Screenshots/bab.jpg";
 import hero3 from "../assets/bloodcancer.png";
