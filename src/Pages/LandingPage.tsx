@@ -362,7 +362,7 @@ const LandingPage: React.FC = () => {
       </section>
 
     {/* Caregivers needs Section*/}
-    <section className="bg-[#FFF6F6] py-8 px-8 md:px-16 flex flex-col justify-center items-center">
+    <section className="bg-[#FFF6F6] py-16 px-8 md:px-16 flex flex-col justify-center items-center">
             <div className="z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             
               <h2 className="text-4xl md:text-5xl font-bold text-gray-900 leading-tight">
