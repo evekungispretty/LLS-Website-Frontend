@@ -7,7 +7,7 @@ import hero2 from "../assets/LLS Screenshots/caa.jpg";
 import hero22 from "../assets/LLS Screenshots/bba.jpg";
 import hero24 from "../assets/LLS Screenshots/abb.jpg"
 import hero14 from "../assets/carma1.png"
-import hero15 from "../assets/carla-hero-section-screenshot.png"
+import hero15 from "../assets/LLS Screenshots/carla-hero-section-screenshot.png"
 import hero16 from "../assets/hopemodel.jpg"
 import hero33 from "../assets/LLS Screenshots/bab.jpg";
 import hero3 from "../assets/bloodcancer.png";
@@ -727,7 +727,7 @@ const LandingPage: React.FC = () => {
     {/* Sponsors Section */}
     <section className='bg-[#FFF6F6] pb-2'>
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="text-center mt-10">
+        <div className="text-center mt-10 py-20">
           <h3 className="text-3xl font-bold text-gray-900 mb-4">In Collaboration With</h3>
 
           <div className="flex items-center justify-center gap-8 mt-8 flex-wrap">
